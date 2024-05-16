@@ -1,1 +1,3 @@
-# React
+# Password Generator
+
+reandom password genrator
